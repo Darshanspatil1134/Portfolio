@@ -1,0 +1,19 @@
+import React from 'react'
+import { Link } from 'react-router-dom';
+
+function Navbar() {
+  return (
+    <div className='flex justify-end gap-10 bg-gray-800 text-white p-4'>
+
+        <a href="/ ">Homepage</a>
+     
+        <a href="/Aboutus ">About Me</a>
+        <a href="/Projects ">Projects</a>
+        <a href="/Contact ">Contact</a>
+      
+      </div>
+   
+  )
+}
+
+export default Navbar
