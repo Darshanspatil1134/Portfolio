@@ -6,7 +6,9 @@ const AboutMe = () => {
     <div className="bg-emerald-200 text-gray-800 min-h-screen">
    <section className="max-w-4xl mx-auto p-6 mt-8 bg-emerald-200 rounded-xl shadow-lg">
         <div className="flex flex-col md:flex-row items-center">
-          <img src="public\img.jpg"alt="hello" className=' w-80 h-80 rounded-xl shadow-md mb-3 md:mb-0 md:mr-6'/>
+          <img src={img} 
+          alt="mineimage" 
+          className=' w-80 h-80 rounded-xl shadow-md mb-3 md:mb-0 md:mr-6'/>
                 <div>
             <h2 className="text-2xl font-bold text-sky-900">About Me</h2>
             <p className="mt-4 text-gray-700 leading-relaxed">

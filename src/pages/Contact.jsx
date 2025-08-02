@@ -12,15 +12,15 @@ function Contact() {
      <section className=" bg-sky-200 rounded-xl shadow-lg">
     <div className='flex flex-col lg:flex-row items-center bg-amber-100 p-4 lg:p-10 min-h-screen'>
       <div className="flex-shrink-0 mb-8 lg:mb-0 lg:mr-10"></div>
-        <img src="public\logo-png.png" alt="myimage" className=' w-120 h-120 rounded-full shadow-md mb-4 md:mb-0 md:mr-8' />
+        <img src="/logo-png.png" alt="myimage" className=' w-120 h-120 rounded-full shadow-md mb-4 md:mb-0 md:mr-8' />
        
         <div className='text-center lg:text-left'>
             <h2 className=" font-bold ml-7 text-sky-900 text-6xl">Get in Touch !</h2>
             <p className="mt-4  leading-relaxed">
-                 {/* <span className=' text-shadow-fuchsia-400 font-semibold text-2xl italic  mask-t-from-neutral-950 ml-14'> I will be Glade to get in your touch </span><br /> */}
-             <p> <span className=' text-shadow-fuchsia-400 font-semibold text-2xl italic ml-96 mask-t-from-neutral-950'>~ Yours Truely ! </span></p>
+                 {/* <span className=' text-shadow-fuchsia-400 font-semibold text-1xl italic  mask-t-from-neutral-950 ml-14'> I will be Glade to get in your touch </span><br /> */}
+             <p> <span className=' text-shadow-fuchsia-400 font-semibold text-2xl italic ml-40 mask-t-from-neutral-950'>~ Yours Truely ! </span></p>
              </p>
-             <p> <span className=' text-shadow-fuchsia-400 font-semibold  italic ml-110 mask-t-from-neutral-950'>        Darshan Patil </span></p>
+             <p> <span className=' text-shadow-fuchsia-400 font-semibold  italic ml-50 mask-t-from-neutral-950'>        Darshan Patil </span></p>
               <br />
               
               
