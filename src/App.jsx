@@ -13,6 +13,7 @@ import Aboutus from "./pages/Aboutus";
 import Contact from "./pages/Contact";
 import Layout from "./Layout/Layout";
 import Projects from "./pages/Projects";
+import { div } from "framer-motion/client";
 
 
 function App() {

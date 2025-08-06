@@ -28,7 +28,7 @@ function Contact() {
                <br />
               {/* <p className='mt-2 text-base sm:text-lg italic leading-relaxed max-w-2xl mx-auto lg:mx-0 '>If you Have Suggestion or Wanna Connect to me <br />kindly contact through given details</p> */}
             <div className='flex justify-center lg:justify-start ml-14  mt-9 gap-x-6'>
-                      <a
+                     < a
                         href='https://www.linkedin.com/in/darshan-patil-938498358/'
                         className='text-blue-600 hover:text-blue-800 transition-colors duration-300'
                         aria-label="LinkedIn Profile"
