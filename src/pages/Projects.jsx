@@ -5,7 +5,7 @@ function Resume() {
     <div className="max-w-5xl mx-auto bg-white shadow-lg rounded-xl p-6 sm:p-10 mt-10 text-gray-800 font-sans">
       {/* Header Section */}
       <header className="text-center border-b pb-4">
-        <h1 className="text-4xl font-extrabold text-gray-900">Darshan Patil</h1>
+        <h1 className="text-4xl font-extrabold italic text-gray-900">Darshan Patil</h1>
         <p className="text-orange-400 text-lg mt-1">Full Stack Web Developer</p>
         <p className="text-sm text-gray-600 mt-1">
           Email: darshanspatil1134@gmail.com | Phone: +91-95183 77707
