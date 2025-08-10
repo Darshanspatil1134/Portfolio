@@ -5,11 +5,12 @@ const AboutMe = () => {
     <div className="bg-blue-950 text-gray-800 min-h-screen p-4">
       <section className="max-w-4xl mx-auto p-6 mt-8 bg-white rounded-xl shadow-lg transition-colors duration-300 hover:bg-emerald-300">
         <div className="flex flex-col md:flex-row items-center">
-          <div className="relative w-200 h-100 mb-3 md:mb-0 md:mr-6 rounded-xl shadow-md overflow-hidden group">
+          {/* Adjusted image container for responsiveness */}
+          <div className="relative w-48 h-70 mb-6 md:mb-0 md:mr-6 rounded-xl shadow-md overflow-hidden group flex-shrink-0">
             <img 
               src="/mine.jpg" 
               alt="mineimage" 
-              className="w-80 h-100 object-cover transition-transform duration-300 group-hover:scale-105"
+              className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
             />
             <div className="absolute inset-0 bg-black opacity-0 group-hover:opacity-20 transition-opacity duration-300"></div>
           </div>
