@@ -10,7 +10,7 @@ function Homepage() {
             <img
               src="/img.jpg"
               alt="img"
-              // Adjusted image sizes to be more responsive
+             
               className="w-48 h-48 sm:w-64 sm:h-64 md:w-80 md:h-80 rounded-full object-cover mx-auto lg:mx-0
                        transition-transform duration-500 ease-in-out hover:scale-110 hover:rotate-6"
             />

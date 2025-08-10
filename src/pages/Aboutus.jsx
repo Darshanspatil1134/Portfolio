@@ -5,7 +5,7 @@ const AboutMe = () => {
     <div className="bg-blue-950 text-gray-800 min-h-screen p-4">
       <section className="max-w-4xl mx-auto p-6 mt-8 bg-white rounded-xl shadow-lg transition-colors duration-300 hover:bg-emerald-300">
         <div className="flex flex-col md:flex-row items-center">
-          {/* Adjusted image container for responsiveness */}
+          
           <div className="relative w-48 h-70 mb-6 md:mb-0 md:mr-6 rounded-xl shadow-md overflow-hidden group flex-shrink-0">
             <img 
               src="/mine.jpg" 

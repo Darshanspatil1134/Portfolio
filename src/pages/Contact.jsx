@@ -128,7 +128,7 @@ function Contact() {
       </div>
 
       {submissionStatus === 'success' && (
-        <div className="fixed bottom-5 right-5 bg-blue-950 text-white p-4 rounded-lg shadow-lg z-50">
+        <div className="fixed bottom-5 right-5 bg-teal-700 text-white p-4 rounded-lg shadow-lg z-50">
           <p>You have successfully contacted Darshan!</p>
         </div>
       )}
