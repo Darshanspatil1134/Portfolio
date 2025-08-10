@@ -10,7 +10,7 @@ function Homepage() {
     <div className='flex flex-col lg:flex-row items-center bg-amber-50 p-4 lg:p-10 min-h-screen'>
       <div className="flex-shrink-0 mb-8 lg:mb-0 lg:mr-10">
         <img
-          src={img}
+          src='/img.jpg'
           alt="img"
           className="w-64 h-64 sm:w-80 sm:h-80 md:w-96 md:h-96 rounded-full object-cover mx-auto lg:mx-0"
         />
